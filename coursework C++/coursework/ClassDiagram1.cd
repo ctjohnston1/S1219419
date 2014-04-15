@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="cBalloon">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAIAAAgAAAAQEAAg=</HashCode>
+      <FileName>H:\The New Balloon\cBalloon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cD3DManager">
+    <Position X="17" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQJAAAAEAAAAAAAEAAAAAgAEEAAAgQAAABCAQAAAQw=</HashCode>
+      <FileName>H:\The New Balloon\cD3DManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cD3DXFont">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAQCAACEAAQCAAAAAAAAIAAAAIAQ=</HashCode>
+      <FileName>H:\The New Balloon\cD3DXFont.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cD3DXSpriteMgr">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAQAAAAAAAAAAAAAAAAAAAAQgAAAQAAAACEoAAAAA=</HashCode>
+      <FileName>H:\The New Balloon\cD3DXSpriteMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cD3DXTexture">
+    <Position X="19.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAEAAAgQAAAAAAIAEAIACAAAAAIAAAAgAAAA=</HashCode>
+      <FileName>H:\The New Balloon\cD3DXTexture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cExplosion">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAEQAAAAAAAAAAAAAAAFAACAAAAAQIAIAAAAAEQAA=</HashCode>
+      <FileName>H:\The New Balloon\cExplosion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cSprite">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wBAGACggIIBEAiAAEBIBCACAgAADAIgiAAQIDIAGECA=</HashCode>
+      <FileName>H:\The New Balloon\cSprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cXAudio">
+    <Position X="19.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAgoAAAABIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>H:\The New Balloon\cXAudio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="eDirection">
+    <Position X="19.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAICAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>H:\The New Balloon\GameConstants.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
